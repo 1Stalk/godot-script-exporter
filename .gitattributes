@@ -1,2 +1,5 @@
-/addons/** export-include
 * export-ignore
+
+
+/addons export-include
+/addons/** export-include
