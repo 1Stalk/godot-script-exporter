@@ -26,5 +26,11 @@ Then, enable the plugin in `Project -> Project Settings -> Plugins`.
 
 The actual plugin code is located in the `addons/ScriptExporter` directory. This structure is required for the Godot Asset Library. The `README.md` file in that directory contains the user-facing documentation displayed in the Asset Library.
 
+## Acknowledgements
+
+This plugin was inspired by the idea and great UI of the [Scene Tree as Text](https://github.com/CyrylSz/scene-tree-as-text) plugin by Cyryl Szczakowski.
+
+In fact, both plugins complement each other perfectly. While **Scene Tree as Text** exports the *structure* of your scenes, **Script Exporter** provides the *code* that brings those scenes to life. Using them together is a great way to get a complete snapshot of your project for sharing or analysis.
+
 ## License
 This project is licensed under the MIT License.
